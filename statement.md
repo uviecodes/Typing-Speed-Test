@@ -1,6 +1,6 @@
 # NAME - YUVRAJ SINGH
 # REGISTRATION NUMBER - 25BSA10055
-# FACULTY - SHRISTIKA RAIKWAR
+# FACULTY - SATYABRATHA NATH
 
 # Statement
 
@@ -31,5 +31,6 @@ The project focuses on a minimal, console-based Python tool for measuring typing
 •Calculates words per minute and accuracy percentage.
 
 •Displays instant feedback to help identify areas for improvement.
+
 
 •Simple command-line interface for maximum accessibility.
